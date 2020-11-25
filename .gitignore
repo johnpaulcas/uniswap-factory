@@ -1,9 +1,12 @@
 node_modules/
 package-lock.json
 uniswap-v2-core/
+build/
 
 periphery/node_modules
+periphery/build/
 periphery/package-lock.json
 
 sample-tokens/node_modules
+sample-tokens/build/
 sample-tokens/package-lock.json
