@@ -4,3 +4,6 @@ uniswap-v2-core/
 
 periphery/node_modules
 periphery/package-lock.json
+
+sample-tokens/node_modules
+sample-tokens/package-lock.json
